@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: #ffff;
+}
+object{
+    margin: 10px;
+    width: 400px;
+    height: 600px;
+}
+.document{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+body{
+    background-color: black;
+}
