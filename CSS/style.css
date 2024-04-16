@@ -2,12 +2,12 @@ h1{
     text-align: center;
     color: #ffff;
 }
-object{
-    margin: 10px;
-    width: 400px;
-    height: 600px;
+
+a{
+    color: #ffff;
 }
 .document{
+    color: red;
     margin-left: 5%;
     margin-right: 5%;
 }
